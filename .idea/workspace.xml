@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a42bf-c198-4e13-9251-facf273f3481" name="Changes" comment="MicroserviceoneAPI">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b02a42bf-c198-4e13-9251-facf273f3481" name="Changes" comment="MicroserviceoneAPI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +33,12 @@
     &quot;assignee&quot;: &quot;jaleelabegum&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jaleelabegum/SpringBootRestApiWithMicroservices.git&quot;,
-    &quot;accountId&quot;: &quot;2822ab3e-f622-4752-b374-c76e34d568ed&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jaleelabegum/MicroservicesRestApi.git",
+    "accountId": "2822ab3e-f622-4752-b374-c76e34d568ed"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.5.7/spring-data-jpa-2.5.7-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java" root0="SKIP_INSPECTION" />
   </component>
