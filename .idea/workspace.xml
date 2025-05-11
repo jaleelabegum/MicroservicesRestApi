@@ -4,44 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b02a42bf-c198-4e13-9251-facf273f3481" name="Changes" comment="Microserviceone">
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Controllers/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Controllers/RestApis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/DAO/TaskDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/DAO/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/DAO/UserTaskDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Entities/TaskSummaryDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Entities/Tasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Entities/UserWithTasks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/MicroServiceOneApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Utilities/JsonResponseBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Utilities/TaskValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Utilities/UserNotInDatabaseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Utilities/UserNotLoggedException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/Utilities/UserValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/services/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/services/LoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/services/TaskService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/java/com/example/MicroServiceOne/services/TaskServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MicroServiceOne/src/test/java/com/example/MicroServiceOne/MicroServiceOneApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MicroServiceOne.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b02a42bf-c198-4e13-9251-facf273f3481" name="Changes" comment="Microserviceone" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +166,15 @@
       <option name="presentableId" value="Default" />
       <updated>1746081316237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Microserviceone">
+      <option name="closed" value="true" />
+      <created>1746986031135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746986031135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
